@@ -28,7 +28,7 @@ export default function Hero() {
           transition={{ delay: 0.2, duration: 0.5 }}
           className="text-gray-500 mt-6 text-base md:text-lg"
         >
-          I create fast, scalable, and clean web applications using the MERN stack.
+          I build modern, responsive web experiences with clean, scalable frontend and backend solutions.
         </motion.p>
 
         {/* Buttons */}
